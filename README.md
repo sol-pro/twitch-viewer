@@ -7,7 +7,7 @@ If you want the source code, please contact us.
 
 discord | solton_e
 
-[invite](https://discord.gg/no)
+[Discord invite](https://discord.gg/no)
 
 There are no invites yet.
 
