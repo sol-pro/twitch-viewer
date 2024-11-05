@@ -1,4 +1,4 @@
-# twitch-viewer
+# twitch viewer
 Increases the number of simultaneous connections on Twitch.
 
 It is written in python and runs on threads, and can increase the number of users by 80-120 with about 10 threads.
