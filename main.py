@@ -4,7 +4,7 @@ It is written in python and runs on threads, and can increase the number of user
 
 If you want the source code, please contact us.
 
-discord | solton_e
+discord | sol_oculus
 
 Discord invite
 
