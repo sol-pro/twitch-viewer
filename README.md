@@ -15,7 +15,7 @@ There are no invites yet.
 Console Log
 ![img](CD7D5DE4-9596-4F79-B219-275FE76D5103.png)
 
-Video
+# Video
 𝐜𝐨𝐦𝐢𝐧𝐠 𝐬𝐨𝐨𝐧…
 
 # 2024/12/30
