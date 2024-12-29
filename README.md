@@ -5,9 +5,9 @@ It is written in python and runs on threads, and can increase the number of user
 
 If you want the source code, please contact us.
 
-discord | solton_e
+discord | sol_oculus
 
-[Discord invite](https://discord.gg/no)
+[Discord invite](https://discord.gg/gUGmD77t4A)
 
 There are no invites yet.
 
