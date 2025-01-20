@@ -8,4 +8,4 @@ discord | sol_oculus
 
 Discord invite
 
-There are no invites yet.
+[Discord invite](https://discord.gg/gUGmD77t4A)
