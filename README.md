@@ -3,7 +3,7 @@ Increases the number of simultaneous connections on Twitch.
 
 It is written in python and runs on threads, and can increase the number of users by 80-120 with about 10 threads.
 
-If you want the source code, please contact us.
+If you need the source code, we sell it, please contact us.
 
 discord | sol_oculus
 
@@ -16,4 +16,4 @@ Console Log
 # Video
 𝐜𝐨𝐦𝐢𝐧𝐠 𝐬𝐨𝐨𝐧…
 
-# 2025/2/22
+# 2025/2/28
